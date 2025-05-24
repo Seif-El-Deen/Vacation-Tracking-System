@@ -1,11 +1,25 @@
-# Vacation-Tracking-System
+# Vacation Tracking System
+## Vision
 An application to facilitate the process of management of the vacations in the organizations between the different members like (employees, managers &amp; Human recourses).
 
-# Domain
+## Functional
+-
+
+## Non Functional Requirements
+- Easy to use
+- Intuitive
+- Intelligent
+
+## Constraints
+-
+
+## Domain
 If an employee wants to ask/requests a vacation, this process is made manually and it may take too long time and it is totally dependent on humans.
 
-# Actors Of the System
+## Actors of the System
 - Employee
 - Manager
 - Clerk (Hr)
 - System Admin
+
+## Manage Time (Use Case):
