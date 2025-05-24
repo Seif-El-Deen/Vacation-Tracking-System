@@ -24,4 +24,4 @@ If an employee wants to ask/requests a vacation, this process is made manually a
 
 ## Manage Time (Use Case):
 - Flowchart:
-- ![VTS Flowchart!]((https://raw.githubusercontent.com/Seif-El-Deen/Vacation-Tracking-System/refs/heads/main/Diagram/VTS%20Flowchart.png))
+- ![VTS Flowchart!](https://raw.githubusercontent.com/Seif-El-Deen/Vacation-Tracking-System/refs/heads/main/Diagram/VTS%20Flowchart.png)
