@@ -23,7 +23,7 @@ If an employee wants to ask/requests a vacation, this process is made manually a
 - System Admin
 
 ## ERD
-![VTS Flowchart!](https://raw.githubusercontent.com/Seif-El-Deen/Vacation-Tracking-System/refs/heads/main/Diagram/VTS%20ERD.png)
+![VTS ERD!](https://raw.githubusercontent.com/Seif-El-Deen/Vacation-Tracking-System/refs/heads/main/Diagram/VTS%20ERD.png)
 
 ## Manage Time (Use Case):
 - ### Flowchart:
