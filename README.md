@@ -1,6 +1,6 @@
 # Vacation Tracking System
 ## Vision
-An application to facilitate the process of management of the vacations in the organizations between the different members like (employees, managers &amp; Human recourses).
+The individual employees can manage their own vacation time, sick leave, and personal time off without needing to be experts in company policy.
 
 ## Functional
 - Implements a flexible rules-based system for validating and verifying leave time requests. This system replaces the manual checks previously done by the HR department.
