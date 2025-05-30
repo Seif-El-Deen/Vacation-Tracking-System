@@ -15,9 +15,12 @@ An application to facilitate the process of management of the vacations in the o
 - Interfaces with the HR department legacy systems to retrieve required employee information and changes.
 
 ## Non Functional Requirements
-- Easy to use
-- Intuitive
-- Intelligent
+- Usability and Ease of Use
+- Performance
+- Security
+- Compatibility and Environment Constraints
+- Scalability
+- Maintainability and Manageability (specifically for HR and Admin).
 
 ## Constraints
 -
