@@ -3,7 +3,16 @@
 An application to facilitate the process of management of the vacations in the organizations between the different members like (employees, managers &amp; Human recourses).
 
 ## Functional
--
+- Implements a flexible rules-based system for validating and verifying leave time requests. This system replaces the manual checks previously done by the HR department.
+- Enables manager approval (optional) for leave requests.
+- Provides access to requests for the previous calendar year.
+- Allows requests to be made up to a year and a half in the future.
+- Uses e-mail notification to request manager approval and notify employees of request status changes.
+- Keeps activity logs for all transactions.
+- Enables HR and system administration personnel to override all actions restricted by rules, with logging of those overrides.
+- Allows managers to directly award personal leave time (comp time), subject to system-set limits.
+- Provides a Web service interface for other internal systems to query any given employee’s vacation request summary.
+- Interfaces with the HR department legacy systems to retrieve required employee information and changes.
 
 ## Non Functional Requirements
 - Easy to use
