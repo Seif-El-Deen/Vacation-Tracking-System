@@ -47,6 +47,9 @@ If an employee wants to ask/requests a vacation, this process is made manually a
 ## ERD
 ![VTS ERD!](https://raw.githubusercontent.com/Seif-El-Deen/Vacation-Tracking-System/refs/heads/main/Diagram/VTS%20ERD.png)
 
+## Request State Machine Diagram
+![Request State Machine Diagram!](https://raw.githubusercontent.com/Seif-El-Deen/Vacation-Tracking-System/refs/heads/main/Diagram/State%20Machine%20of%20Request.png)
+
 ## Manage Time (Use Case):
 - ### Flowchart:
 ![Manage Time Flowchart!](https://raw.githubusercontent.com/Seif-El-Deen/Vacation-Tracking-System/refs/heads/main/Diagram/Flowchart%20Manage%20Time.png)
@@ -55,8 +58,18 @@ If an employee wants to ask/requests a vacation, this process is made manually a
 - ![VTS Flowchart!](https://raw.githubusercontent.com/Seif-El-Deen/Vacation-Tracking-System/refs/heads/main/Diagram/Manage%20Time(Employee)%20Sequence%20Diagram.png)
 
 
-
 ## Withdraw Request (Use Case):
 - ### Flowchart:
 ![Withdraw Request Flowchart!](https://raw.githubusercontent.com/Seif-El-Deen/Vacation-Tracking-System/refs/heads/main/Diagram/Flowchart%20Withdraw%20Request.png)
+
+## Cancel Approved Request (Use Case):
+- ### Flowchart:
+![Cancel Approved Request Flowchart!](https://raw.githubusercontent.com/Seif-El-Deen/Vacation-Tracking-System/refs/heads/main/Diagram/Flowchart%20Cancel%20Approved%20Request.png)
+
+
+## Edit Pending Request (Use Case):
+- ### Flowchart:
+![Flowchart Edit Pending Request!](https://raw.githubusercontent.com/Seif-El-Deen/Vacation-Tracking-System/refs/heads/main/Diagram/Flowchart%20Edit%20Pending%20Request.png)
+
+
 
