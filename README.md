@@ -49,8 +49,14 @@ If an employee wants to ask/requests a vacation, this process is made manually a
 
 ## Manage Time (Use Case):
 - ### Flowchart:
-![VTS Flowchart!](https://raw.githubusercontent.com/Seif-El-Deen/Vacation-Tracking-System/refs/heads/main/Diagram/Flowchart%20Manage%20Time.png)
+![Manage Time Flowchart!](https://raw.githubusercontent.com/Seif-El-Deen/Vacation-Tracking-System/refs/heads/main/Diagram/Flowchart%20Manage%20Time.png)
 
 - ### Sequence Diagram:
 - ![VTS Flowchart!](https://raw.githubusercontent.com/Seif-El-Deen/Vacation-Tracking-System/refs/heads/main/Diagram/Manage%20Time(Employee)%20Sequence%20Diagram.png)
+
+
+
+## Withdraw Request (Use Case):
+- ### Flowchart:
+![Withdraw Request Flowchart!](https://raw.githubusercontent.com/Seif-El-Deen/Vacation-Tracking-System/refs/heads/main/Diagram/Flowchart%20Withdraw%20Request.png)
 
